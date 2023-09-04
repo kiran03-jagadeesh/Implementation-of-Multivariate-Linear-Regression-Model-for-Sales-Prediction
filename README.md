@@ -1,4 +1,4 @@
-# Implementation-of-Multivariate-Linear-Regression-Model-for-Sales-Prediction
+# Implementation of Multivariate Linear Regression Model for Sales Prediction
 
 ## AIM:
 To write a program to implement the multivariate linear regression model for sales prediction.
